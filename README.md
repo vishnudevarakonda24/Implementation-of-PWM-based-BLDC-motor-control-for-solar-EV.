@@ -4,27 +4,6 @@ Implemented PWM-based BLDC motor control for solar EVs, enhancing the efficiency
 
 An industrial-grade, hardware-accelerated 3-Phase Brushless DC (BLDC) motor commutation controller implemented in Verilog HDL. This design replaces sequential microcontroller architectures to achieve nanosecond-level execution and zero-latency hardware feedback processing.
 <img width="501" height="633" alt="image" src="https://github.com/user-attachments/assets/31a09439-89a6-4413-b8ea-66db8827e3d4" />
-
-# 1. Initialize a empty Git repository in your local directory
-git init
-
-# 2. Add all your Verilog files and folders to staging
-git add .
-
-# 3. Commit the code locally with a clear message
-git commit -m "Initial commit: Compressed 3-Phase BLDC Verilog RTL with PWM and Safety Loops"
-
-# 4. Rename your default branch to 'main'
-git branch -M main
-
-# 5. Link your local project folder to your online GitHub repository
-# (⚠️ Replace 'your-username' with your actual GitHub username!)
-git remote add origin https://github.com
-
-# 6. Push your code directly to your GitHub profile
-git push -u origin main
-
-
 ## ⚡ Architecture Comparison
 
 | Feature | Traditional MCU Control | FPGA Verilog Implementation (This Project) |
