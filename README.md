@@ -3,7 +3,8 @@ Implemented PWM-based BLDC motor control for solar EVs, enhancing the efficiency
 # FPGA-Based Ultra-Low Latency BLDC Motor Controller
 
 An industrial-grade, hardware-accelerated 3-Phase Brushless DC (BLDC) motor commutation controller implemented in Verilog HDL. This design replaces sequential microcontroller architectures to achieve nanosecond-level execution and zero-latency hardware feedback processing.
-![Uploading image.png…]()
+<img width="501" height="633" alt="image" src="https://github.com/user-attachments/assets/31a09439-89a6-4413-b8ea-66db8827e3d4" />
+
 
 
 ## ⚡ Architecture Comparison
